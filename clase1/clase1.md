@@ -1,0 +1,1 @@
+En esta carpeta se guardaran las actiividades hechas en la primera clase
